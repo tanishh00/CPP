@@ -23,7 +23,7 @@
 //     s.setAge(20);
 //     s.showAge();
 //
-//     // s.age = 20; ❌ Not allowed
+//     // s.age = 20;
 // }
 #include <iostream>
 using namespace std;
@@ -40,4 +40,5 @@ using namespace std;
 //     cout << c << endl;
 //     return 0;
 // }
+
 
